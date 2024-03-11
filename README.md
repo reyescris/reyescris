@@ -1,0 +1,5 @@
+-  Hi there, I am Crisbell Reyes :)
+-  I'm majoring in Computer Science
+-  Welcome to my portfolio consisting my best work in C++ an Python
+-  I welcome feedback and advice relating to my work
+-  Thank you!!!
